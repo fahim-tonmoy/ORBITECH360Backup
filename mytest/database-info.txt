@@ -1,0 +1,3 @@
+For fahim:
+set database connection according to your localhost
+see capture.PNG for data table
